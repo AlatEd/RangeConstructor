@@ -6,7 +6,9 @@ function ClickMe() {
   let [result, setResult] = useState(0);
   return (
     <div>
-      <button onClick={() => setResult(result + 1)}>Add to Counter</button>
+      <button onClick={() => setResult(Math.floor(Math.random() * 100))}>
+        Add to Counter
+      </button>
       <br />
       <button onClick={() => setResult(0)}>Clear Counter</button>
       <p>{result}</p>
