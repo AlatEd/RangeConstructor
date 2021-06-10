@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO WORLD!!! Toka
+          HELLO WORLD!!! Toka Kolmas
         </a>
       </header>
     </div>
