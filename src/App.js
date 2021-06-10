@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO WORLD!!! Toka Kolmas
+          HELLO WORLD!!! Line ending test
         </a>
       </header>
     </div>
