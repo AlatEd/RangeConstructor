@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HELLO WORLD!!! Line ending test
+          HELLO WORLD!!! Poistettu tekstiä
         </a>
       </header>
     </div>
